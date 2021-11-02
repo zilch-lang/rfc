@@ -14,7 +14,7 @@ If you are unsure, feel free to open an issue here to ask before writing a compl
 
 ## Writing a new RFC
 
-There is a RFC template named [`0000-template.md`](./0000-template.md) available in this repository.
+There is a RFC template named [`0000-template.md`](./rfcs/0000-template.md) available in this repository.
 This template **must** be used as the basis of your RFC.
 Any RFC submitted which does not follow this template may simply be refused.
 Please also note that any PR whose RFC does not comply with the current goals of Zilch may also be closed.
